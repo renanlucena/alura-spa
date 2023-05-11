@@ -142,4 +142,34 @@ nav ul li a:hover {
   color: #212A3E;
   background-color: #19A7CE;
   border-color: #19A7CE;
+}
+
+footer {
+  text-align: center;
+  font-size: 1.5rem;
+  border-top: 2px solid #146C94;
+  margin-top: 1rem;
+  padding: 1.3rem;
+  background: linear-gradient(to left, #146C94, #19A7CE, #AFD3E2);
+}
+footer i {
+  color: red;
+}
+
+#curiosidades {
+  padding: 1rem;
+  text-align: center;
+  margin: 5px;
+}
+#curiosidades h3 {
+  color: #146C94;
+  font-size: 1.2rem;
+}
+#curiosidades h4 {
+  color: #19A7CE;
+  font-size: 1rem;
+}
+#curiosidades p {
+  margin-top: 5px;
+  color: #146C94;
 }/*# sourceMappingURL=style.css.map */
